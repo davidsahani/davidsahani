@@ -1,13 +1,8 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h2 style="flex-grow: 1; margin-bottom: 0;">Hi there, I'm David 👋</h2>
-  <p style="float: right; padding-top: 23px; margin: 0;"> 
-    <img src="https://komarev.com/ghpvc/?username=davidsahani&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="davidsahani" />
-  </p>
-</div>
+## Hi there, I'm David 👋
 
 ### 🚀 Mobile & Desktop App Developer | Building Cool Stuff
 
-I’m a **Mobile & Desktop App Developer** who loves creating apps that just work—no fuss, no headaches. I’m all about exploring new technologies and finding innovative ways to solve problems.
+I'm a **Mobile & Desktop App Developer** who loves creating apps that just work—no fuss, no headaches. I’m all about exploring new technologies and finding innovative ways to solve problems.
 
 - 🛠️ **Cross-Platform Development**: I build apps that look and feel great on both mobile and desktop.
 - 🔥 **Exploring Cool Tech**: Always on the lookout for the latest tools and frameworks to play with.
