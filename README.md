@@ -14,7 +14,7 @@ I'm a **Mobile & Desktop App Developer** who loves creating apps that just workâ
 
 ### ğŸŒ Let's Connect:
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/davidsahani/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidsahani/" height="30" width="40" />
+<a href="https://www.linkedin.com/in/davidsahani" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://t.me/davidsahani" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" height="40"/>
 </a>
