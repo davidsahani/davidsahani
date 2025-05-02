@@ -52,10 +52,11 @@ I'm a **Mobile & Desktop App Developer** who loves creating apps that just workâ
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </a>
-
+<!--
 <h3> ðŸ“ˆ GitHub Stats: </h3>
 <p>
   <img height="180em" alt="David's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=davidsahani&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=radical">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsahani&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </p>
+-->
